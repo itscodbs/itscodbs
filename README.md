@@ -2,8 +2,7 @@
 
 ### Hi, I'm chaeyoon sung.
 ### Thank you for visit to my github🤍
-
-<br>
+---
 [![](https://raw.githubusercontent.com/itscodbs/itcodbs/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/itscodbs/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/itscodbs/itscodbs/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/itscodbs/github-profile-summary-cards) [![](https://raw.githubusercontent.com/itscodbs/itscodbs/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/itscodbs/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/itscodbs/itscodbs/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/itscodbs/github-profile-summary-cards) [![](https://raw.githubusercontent.com/itscodbs/itscodbs/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/itscodbs/github-profile-summary-cards)
