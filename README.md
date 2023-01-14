@@ -18,7 +18,7 @@
 ![mysql badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
 <br>
 **[ Design ]**<br>
-![figma badge](https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=F24E1E)
+![Bootstrap badge](https://img.shields.io/badge/-Bootstrap-%23F7DF1E?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3)
 <br>
 ### 📖 Now Studying 📖
 ![JAVA badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396)
