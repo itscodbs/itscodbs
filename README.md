@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=chaeyoon's%20github&fontSize=70)
 
-🌱 I’m currently learning Web Development. <br>
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://blog.naver.com/itscodbs)](https://itscodbs.github.io/)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitscodbs&count_bg=%23DB74CD&title_bg=%23555555&icon=&icon_color=auto&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+Thank you for visit to my github🤍
+
+🌏 I'm from South Korea and living in Seoul. <br>
+💻 I’m currently learning Web Development. <br>
 📫 How to reach me : itscodbs@naver.com <br>
 📝 I regularly write articles on https://blog.naver.com/itscodbs 
 
