@@ -27,6 +27,7 @@
   <br>
   DB :
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MSSQLServer-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
   <br>
