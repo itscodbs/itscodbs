@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=itscodbs%20github&fontSize=90)
 
 ### Hi, I'm chaeyoon sung. Thank you for visit to my github🤍
 
-🌱 I’m currently learning programming
+🌱 I’m currently learning java, spring boot, jpa, python, algorithm, etc.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscodbs&show_icons=true&theme=dracula)](https://github.com/itscodbs/github-readme-stats)
 
