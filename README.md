@@ -3,10 +3,10 @@
 ### Hi, I'm chaeyoon sung.
 ### Thank you for visit to my github🤍
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itscodbs&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itscodbs&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itscodbs&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itscodbs&theme=dracula)
+![Readme Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itscodbs&theme=dracula)
+![Readme Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itscodbs&theme=dracula)
+![Readme Card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itscodbs&theme=dracula)
+![Readme Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itscodbs&theme=dracula)
 <br>
 🌱 I’m currently learning web development. <br>
 📫 How to reach me : itscodbs@naver.com <br>
@@ -35,7 +35,7 @@
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscodbs&layout=compact)](https://github.com/itscodbs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscodbs&layout=compact)](https://github.com/itscodbs)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=blog)](https://github.com/itscodbs/github-readme-stats)
 
