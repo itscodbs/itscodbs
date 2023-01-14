@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=itscodbs's%20github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=itscodbs's%20github&fontSize=70)
 
 🌱 I’m currently learning Web Development. <br>
 📫 How to reach me : itscodbs@naver.com <br>
@@ -75,4 +75,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=python" />
 </a>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
