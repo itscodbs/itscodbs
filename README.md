@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=itscodbs%20github&fontSize=90)
 <br>
+<div>
 ### Hi, I'm chaeyoon sung.
 ### Thank you for visit to my github🤍
 <br>
@@ -47,5 +48,5 @@
 <a href="https://github.com/itsocbds/python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=python" />
 </a>
-
+</div>
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
