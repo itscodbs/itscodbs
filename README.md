@@ -69,11 +69,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscodbs)](https://github.com/itscodbs/github-readme-stats)
 
-<a href="https://github.com/itscodbs/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=blog" />
-</a>
-<a href="https://github.com/itsocbds/python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=python" />
-</a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
