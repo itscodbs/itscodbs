@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=chaeyoon's%20github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=chaeyoon's%20github&fontSize=50)
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://blog.naver.com/itscodbs)](https://itscodbs.github.io/)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitscodbs&count_bg=%23DB74CD&title_bg=%23555555&icon=&icon_color=auto&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
