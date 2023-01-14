@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=itscodbs%20github&fontSize=90)
 
-### Hi, I'm chaeyoon sung. Thank you for visit to my github🤍
+### Hi, I'm chaeyoon sung.
+### Thank you for visit to my github🤍
 
 🌱 I’m currently learning web development. <br>
 📫 How to reach me : itscodbs@naver.com <br>
