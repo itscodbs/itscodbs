@@ -6,13 +6,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscodbs&layout=compact)](https://github.com/itscodbs/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=blog)](https://github.com/itscodbs/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=blog)](https://github.com/itscodbs/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=python)](https://github.com/itscodbs/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=python)](https://github.com/itscodbs/github-readme-stats) -->
 
 <a href="https://github.com/itscodbs/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=blog" />
 </a>
 <a href="https://github.com/itsocbds/python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=blog" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=python" />
 </a>
