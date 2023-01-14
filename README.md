@@ -1,12 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=itscodbs%20github&fontSize=90)
-
+<br>
 ### Hi, I'm chaeyoon sung.
 ### Thank you for visit to my github🤍
--
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itscodbs&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itscodbs&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itscodbs&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itscodbs&theme=dracula)
+<br>
 🌱 I’m currently learning web development. <br>
 📫 How to reach me : itscodbs@naver.com <br>
 📝 I regularly write articles on https://blog.naver.com/itscodbs <br>
-
+<br>
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br>
 ![JAVA badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396)
@@ -28,9 +33,8 @@
 ### 📖 Now Studying 📖
 ![JAVA badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396)
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
-
-[![itscodbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscodbs&show_icons=true&theme=dracula)](https://github.com/itscodbs/github-readme-stats)
-
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscodbs&layout=compact)](https://github.com/itscodbs/github-readme-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=blog)](https://github.com/itscodbs/github-readme-stats)
