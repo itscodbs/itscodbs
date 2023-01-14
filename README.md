@@ -65,9 +65,8 @@
 </p>
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscodbs)](https://github.com/itscodbs/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscodbs)](https://github.com/itscodbs/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscodbs)](https://github.com/itscodbs/github-readme-stats)
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
