@@ -2,9 +2,9 @@
 
 ### Hi, I'm chaeyoon sung. Thank you for visit to my github🤍
 
-🌱 I’m currently learning web development.
-📫 How to reach me : itscodbs@naver.com
-📝 I regularly write articles on https://blog.naver.com/itscodbs
+🌱 I’m currently learning web development. <br>
+📫 How to reach me : itscodbs@naver.com <br>
+📝 I regularly write articles on https://blog.naver.com/itscodbs <br>
 
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br>
@@ -42,3 +42,5 @@
 <a href="https://github.com/itsocbds/python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=python" />
 </a>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
