@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=itscodbs%20github&fontSize=90)
-<br>
-<div>
+
 ### Hi, I'm chaeyoon sung.
 ### Thank you for visit to my github🤍
+
 <br>
 [![](https://raw.githubusercontent.com/itscodbs/itcodbs/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/itscodbs/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/itscodbs/itscodbs/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/itscodbs/github-profile-summary-cards) [![](https://raw.githubusercontent.com/itscodbs/itscodbs/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/itscodbs/github-profile-summary-cards)
@@ -47,5 +47,5 @@
 <a href="https://github.com/itsocbds/python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=python" />
 </a>
-</div>
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
