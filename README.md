@@ -6,11 +6,11 @@
 [![](https://raw.githubusercontent.com/itscodbs/itcodbs/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/itscodbs/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/itscodbs/itscodbs/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/itscodbs/github-profile-summary-cards) [![](https://raw.githubusercontent.com/itscodbs/itscodbs/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/itscodbs/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/itscodbs/itscodbs/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/itscodbs/github-profile-summary-cards) [![](https://raw.githubusercontent.com/itscodbs/itscodbs/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/itscodbs/github-profile-summary-cards)
-<br>
+---
 🌱 I’m currently learning web development. <br>
 📫 How to reach me : itscodbs@naver.com <br>
 📝 I regularly write articles on https://blog.naver.com/itscodbs <br>
-<br>
+--- 
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br>
 ![JAVA badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396)
@@ -33,13 +33,13 @@
 ![JAVA badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396)
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 <br>
-<br>
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscodbs&layout=compact)](https://github.com/itscodbs)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=blog)](https://github.com/itscodbs/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=blog)](https://github.com/itscodbs/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=python)](https://github.com/itscodbs/github-readme-stats) -->
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=python)](https://github.com/itscodbs/github-readme-stats)
+--
 <a href="https://github.com/itscodbs/blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscodbs&repo=blog" />
 </a>
