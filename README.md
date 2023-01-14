@@ -65,6 +65,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/OneNote-7719AA?style=flat-square&logo=Microsoft OneNote&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Evernote-00A82D?style=flat-square&logo=Evernote&logoColor=white"/></a>&nbsp
 </p>
 
 
