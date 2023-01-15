@@ -10,6 +10,7 @@ Thank you for visit to my github🤍
 📝 I regularly write articles on https://blog.naver.com/itscodbs 
 
 ---
+
 <h3>📚 Tech Stack 📚</h3>
 <p>
   Language <br>
@@ -71,8 +72,9 @@ Thank you for visit to my github🤍
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscodbs)](https://github.com/itscodbs/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscodbs)](https://github.com/itscodbs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscodbs&langs_count=10&layout=compact)]()
+
+[![Chaeyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscodbs)]()
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
