@@ -28,18 +28,21 @@ Thank you for visit to my github🤍
   <br>
   DB <br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MysqlWorkbench-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSSQLServer-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <br>
   Server <br>
-  <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MysqlServer-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSSQLServer-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
   <br>
   Tool <br>
   <img src="https://img.shields.io/badge/SpringToolSuite4-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQLWorkbench-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/>
  <img src="https://img.shields.io/badge/Editplus-CC2927?style=flat-square&logo=EditplusE&logoColor=white"/>
@@ -61,6 +64,7 @@ Thank you for visit to my github🤍
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br> 
   Management <br>
+ <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <br>
   Other Tools <br>
@@ -70,6 +74,7 @@ Thank you for visit to my github🤍
   <img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/>
   <img src="https://img.shields.io/badge/OneNote-7719AA?style=flat-square&logo=Microsoft OneNote&logoColor=white"/>
   <img src="https://img.shields.io/badge/Evernote-00A82D?style=flat-square&logo=Evernote&logoColor=white"/>
+ <img src="https://img.shields.io/badge/WinMerge-F8DC75?style=flat-square&logo=Winmerge&logoColor=white"/>
 </p>
 
 ---
